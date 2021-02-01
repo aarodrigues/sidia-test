@@ -18,7 +18,7 @@ There is no unity test because it was not ask to implement such tool.
 
 ### Premisse Four
 
-All answer are given in Credits unit
+All answer are given in C# script
 
 ## Prerequisites
 
@@ -33,12 +33,6 @@ Open the project on Unity and run the scene Tree test the third part of the test
 #### Install Dependencies
 
 Unity 3D.
-
-##### Windows
-
-Download python 3.7.x from https://www.python.org/downloads/ double click and install.
-
-
 
 ## Built With
 
